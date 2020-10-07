@@ -1,0 +1,11 @@
+/.idea/*
+.idea/
+src/main/java/test/
+target/
+*.iml
+/logs/application.log
+/data/treeView.dat
+data/
+logs/
+*.log
+!/src/main/resources/app-config.properties
